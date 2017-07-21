@@ -349,9 +349,7 @@ letter@信
 focus@焦点，中心
 blank@空白
 bottom@底部，末端
-
-botton@
-padding@
+padding@内边距
 solid@实线边框
 dashed@实线
 groove@凹槽
@@ -372,14 +370,10 @@ overflow@溢出
 collapse@倒塌，瓦解
 Generate@生成
 Modified@修改的，改进的，改良的
-
-
-
-printStackTrace@
-
-Unsupported Encoding Exception@
+printStackTrace@打印异常堆栈信息
+Unsupported Encoding Exception@不支持编码异常
 ParseException@解析异常
-NoSuchElementException@
+NoSuchElementException@没有找到元素异常
 RuntimeException@运行时异常
 OutOfMemoryError@内存溢出
 ClassCastException@类型转换异常
