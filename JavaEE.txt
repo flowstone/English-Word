@@ -166,8 +166,8 @@ dead@死亡的，无生命的
 lock@锁
 unlock@解锁
 console@控制台
-font@字体
-syntax@语法
+foninstantiate@实例化
+ instantiate@实例化 instantiate@实例化@语法
 resource@资源
 notify@唤醒，告知
 input@输入
@@ -370,6 +370,9 @@ overflow@溢出
 collapse@倒塌，瓦解
 Generate@生成
 Modified@修改的，改进的，改良的
+calculator@计算器
+undefined@未定义
+instantiate@实例化
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
 ParseException@解析异常
