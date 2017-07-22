@@ -15,7 +15,7 @@ extends@继承
 interface@接口
 abstract@抽象
 mouse@鼠标，老鼠
-bonus@奖金@实现
+bonus@奖金
 version@版本
 author@作者
 byte@字节
@@ -126,8 +126,7 @@ final@最终的
 finally@最后,最终
 finalized@结束
 mouse@鼠标，老鼠
-bonus@奖金
-inner@内部
+bonus@内部
 file@文件
 folder@文件夹
 view@视图，视线，看
@@ -373,6 +372,10 @@ Modified@修改的，改进的，改良的
 calculator@计算器
 undefined@未定义
 instantiate@实例化
+token@标记, 标志
+expected@期待
+subclass@子类
+
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
 ParseException@解析异常
