@@ -133,8 +133,7 @@ view@视图，视线，看
 equals@判断两个字符串是否相等
 memory@记忆，内存，存储器
 heap@堆
-stack@堆
-spce@空间
+stack@栈
 throw@抛出，投掷
 message@消息，信息，通知
 try@尝试，试图
@@ -375,6 +374,16 @@ instantiate@实例化
 token@标记, 标志
 expected@期待
 subclass@子类
+illegal@违法的; 不合规定的
+assigned@赋值
+blank@空白，空的
+already@已经
+parameter@参数
+reduce@降低
+visibility@可见度
+inherited@继承
+native@本地方法
+handle@处理
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
