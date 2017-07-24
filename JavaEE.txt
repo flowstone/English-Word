@@ -384,6 +384,7 @@ visibility@可见度
 inherited@继承
 native@本地方法
 handle@处理
+compatible@一致
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
