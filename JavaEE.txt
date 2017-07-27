@@ -224,7 +224,7 @@ process@处理，加工
 notepad@笔记本
 destroy@消毁，破坏，消灭
 separator@分隔符，分离器
-generic@类的，一般的
+generic@泛型，一般的
 vector@也是一个集合<br>(早期的一个集合现在几乎不用了)
 value@值，价值
 calendar@日历，日历表，历法
@@ -384,6 +384,15 @@ handle@处理
 compatible@一致
 pattern@模型，样式
 match@匹配
+locale@现场，场所
+field@字段
+amount@总数
+millis@毫秒
+property@属性
+space@空间
+grow@生长
+pop@泡泡
+push@推
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
@@ -404,3 +413,4 @@ ArrayIndexOutOfBoundsException@数组角标越界异常
 IndexOutOfBoundsException@索引越界异常
 StringIndexOutOfBoundsException@字符串索引越界异常
 NumberFormatException@数字转换异常
+ConcurrentModificationException@并发修改异常
