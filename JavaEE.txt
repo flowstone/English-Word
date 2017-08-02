@@ -393,6 +393,13 @@ space@空间
 grow@生长
 pop@泡泡
 push@推
+entry@对应关系
+properties@属性集
+shffle@洗牌
+exists@是否存在
+comment@注释,说明
+serializable@序列化
+transient@短暂,瞬间
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
@@ -414,3 +421,4 @@ IndexOutOfBoundsException@索引越界异常
 StringIndexOutOfBoundsException@字符串索引越界异常
 NumberFormatException@数字转换异常
 ConcurrentModificationException@并发修改异常
+NotSerializableException@没有实现序列化异常
