@@ -163,8 +163,7 @@ dead@死亡的，无生命的
 lock@锁
 unlock@解锁
 console@控制台
-foninstantiate@实例化
- instantiate@实例化 instantiate@实例化@语法
+instantiate@实例化
 resource@资源
 notify@唤醒，告知
 input@输入
@@ -400,6 +399,9 @@ exists@是否存在
 comment@注释,说明
 serializable@序列化
 transient@短暂,瞬间
+wait@等待
+reentrantlock@显示锁
+
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
@@ -422,3 +424,4 @@ StringIndexOutOfBoundsException@字符串索引越界异常
 NumberFormatException@数字转换异常
 ConcurrentModificationException@并发修改异常
 NotSerializableException@没有实现序列化异常
+IllegalThreadStateException@不合法线程状态异常
