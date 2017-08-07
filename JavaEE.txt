@@ -401,7 +401,16 @@ serializable@序列化
 transient@短暂,瞬间
 wait@等待
 reentrantlock@显示锁
-
+annotation@注解
+deprecated@过时
+raw@原生
+supperssWarnings@抑制警告,压制警告
+invalid@非法的
+primitive@基本,原始
+Target@目录
+Retention@保留
+present@存在
+extension@扩展
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
@@ -425,3 +434,6 @@ NumberFormatException@数字转换异常
 ConcurrentModificationException@并发修改异常
 NotSerializableException@没有实现序列化异常
 IllegalThreadStateException@不合法线程状态异常
+InstantiationException@实例化异常
+IllegalAccessException@不合法访问异常
+
