@@ -285,8 +285,8 @@ receive@接收
 send@发送
 client@客户
 server@服务器
-log@注册
-register@登录
+log@日志
+register@注册
 upload@上传
 download@下载
 task@任务
@@ -421,6 +421,13 @@ populate@填充
 timestamp@时间戳
 multiple@重复
 defined@定义
+driver@驱动
+manager@管理
+statement@状态
+query@查询
+connectivity@连接的
+prepared@准备
+release@释放
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
