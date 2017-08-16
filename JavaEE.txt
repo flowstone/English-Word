@@ -428,6 +428,9 @@ query@查询
 connectivity@连接的
 prepared@准备
 release@释放
+basic@基本的
+source@源
+
 
 printStackTrace@打印异常堆栈信息
 Unsupported Encoding Exception@不支持编码异常
