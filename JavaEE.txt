@@ -1,4 +1,4 @@
-path@路径
+﻿path@路径
 class@类
 classpath@类路径
 public@公共的，公用的
@@ -70,7 +70,7 @@ sort@将...排序
 select@选择
 bubble@冒泡，气泡
 change@改变，交换
-swap@交换
+change@交换
 half@一半的，半个的
 search@搜索，查找
 mid@中间的
